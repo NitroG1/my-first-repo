@@ -16,3 +16,7 @@ This is my first repository. I'm learning Git and GitHub!git status
 ## Project Status
 🟢 Active - Learning in progress!
 📅 Started: October 2025
+
+## Contact
+GitHub: @NitroG1
+Learning together with Claude Code!
