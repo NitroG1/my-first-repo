@@ -7,3 +7,8 @@ This is my first repository. I'm learning Git and GitHub!git status
 - Master Git basics
 - Build real projects with Claude Code
 - Deploy to production
+
+## Tech Stack
+- Git & GitHub for version control
+- Cursor as my code editor
+- Claude Code for AI assistance
